@@ -190,3 +190,13 @@ Questi termini sono formulati in modo da proteggere il gruppo, assicurando un am
         - TeX2RTF
 
             - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
+
+
+ >[!CAUTION]
+>per Visual Basic ( VS B ) non sarà possiile modificare le applicazioni, App e programmi
+>
+>per maggiore problemi non usare Vs B ma VsCode o VIM
+>
+------------------------------------------------------
+
+Copyright ©        ————          2025           Cat-Gawr, Pumpkin_is_orange e MrZenith
