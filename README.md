@@ -205,5 +205,5 @@ Questi termini sono formulati in modo da proteggere il gruppo, assicurando un am
 >per maggiore problemi non usare Vs B ma VsCode o VIM
 >
 ------------------------------------------------------
-
-Copyright ©        ————          2025           Cat-Gawr, Pumpkin_is_orange e MrZenith
+             
+Copyright ©            ————                                               2025                                                             Cat-Gawr, Pumpkin_is_orange e MrZenith
