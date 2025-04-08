@@ -73,3 +73,120 @@ dal gruppo.
 ---------------------------------------
 
 Questi termini sono formulati in modo da proteggere il gruppo, assicurando un ambiente sicuro e collaborativo per tutti i membri. Puoi adattarli ulteriormente per rispecchiare meglio la tua visione specifica.
+
+
+
+
+# IDE che verranno utilizzati   :
+
+    - Visual Studio Code
+
+    - Visual Studio
+      - il Fork di VsCode ovvero  Cursor 
+      - il Fork di VsCode ovvero  VSCodium
+
+    - PyCharm
+
+    - Sublime Text
+
+    - Notepad++
+
+    - Atom
+
+    - Eclipse
+
+    - IntelliJ IDEA
+
+    - NetBeans
+
+    - Android Studio
+
+
+    - Xcode( solo per Mac )
+
+    - WebStorm
+      - PhpStorm
+      - DataGrip 
+      - RubyMine
+
+    - AppCode
+
+    
+    - DataGrip
+
+    - Rider
+
+    - GoLand
+
+    - PyCharm Edu( solo per Linux , non cambia nulla se è su un'altro OS )
+
+    - Brackets
+
+    - Vim( solo per Linux , ma anche per il OS di Apple [ Mac os ] )     
+
+    - Emacs
+
+    - nano
+
+    - Geany
+
+    - Bluefish
+
+    - Kate
+
+    - Code::Blocks
+
+    - Anjuta
+
+    - KDevelop
+
+    - Lazarus
+
+    - MonoDevelop   
+
+    - CodeLite      
+
+    - JCreator
+
+    - DrJava
+
+    - Notepadqq
+
+    - Gedit
+
+    - Kate
+
+    - KWrite ( solo ed escusivamente su Linux )
+
+    - SciTE
+
+    - Kile
+
+    - WinEdt
+
+    - LyX
+
+    - TeXShop
+
+      - TeXworks
+  
+  
+      - TeXstudio
+
+    - TeXnicCenter
+  
+      - TeXmaker
+    
+    - TeXpen
+
+     - TeXlipse
+ 
+    - TeXmacs
+ 
+    - TeXShade
+      
+        - TeX2pag(e)
+      
+        - TeX2RTF
+
+            - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
