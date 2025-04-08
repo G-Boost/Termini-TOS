@@ -1,4 +1,11 @@
 # Termini di Servizio (ToS) di G-Boost 🗞️
+
+# G-BOOST :
+
+![Image](https://github.com/user-attachments/assets/50cee7f8-77e8-4775-8443-9b96ffe0261b)
+
+
+
 ---------------------------------------
 
 Benvenuti nel gruppo G-Boost! Questi Termini di Servizio (ToS) sono applicabili a tutti gli utenti e membri che partecipano alle attività del gruppo. Per utilizzare i nostri servizi, è necessario rispettare le seguenti condizioni, invece , le licenze GNU verranno fornite nel momento
